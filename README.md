@@ -1,4 +1,7 @@
 <h2>Hi, I'm Kurtürk</h2>
+
+<p><b>E-Mail:</b> kurturkish@yandex.com</p>
+
 <p>
   <a href="https://github.com/TUSECO" target="blank">GitHub / </a><a href="https://discord.gg/eVeJYtWbzY" target="blank">Discord / </a><a href="https://x.com/Kurturkish" target="blank">Twitter / </a><a href="https://www.youtube.com/@TUSECO" target="blank">YouTube</a>
 </p>
